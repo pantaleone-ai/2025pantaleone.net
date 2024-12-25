@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://localhost:3000</id>
+    <title>Gopal Verma | gopx.dev</title>
+    <updated>2024-08-18T18:37:51.684Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://localhost:3000"/>
+    <link rel="self" href="http://localhost:3000/atom.xml"/>
+    <subtitle>I'm Gopal Verma, an indie developer, freelancer, and full-stack developer based in India. I do open-source projects and freelance work.</subtitle>
+    <logo>http://localhost:3000/logo.png</logo>
+    <icon>http://localhost:3000/favicon.png</icon>
+    <rights>All rights reserved 2024, Gopal Verma</rights>
+    <entry>
+        <title type="html"><![CDATA[The End of Junior Engineers]]></title>
+        <id>http://localhost:3000/blogs/end-of-je</id>
+        <link href="http://localhost:3000/blogs/end-of-je"/>
+        <updated>2024-07-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Threat of AI Taking Over Entry-Level Jobs]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No need to code for fun]]></title>
+        <id>http://localhost:3000/blogs/not-code-4-fun</id>
+        <link href="http://localhost:3000/blogs/not-code-4-fun"/>
+        <updated>2024-07-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Exploring the divisive opinion that programmers must code in their free time to excel]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pair programming lowers quality]]></title>
+        <id>http://localhost:3000/blogs/pair-prog-sucks</id>
+        <link href="http://localhost:3000/blogs/pair-prog-sucks"/>
+        <updated>2024-07-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pair Programming: A Myth of Improved Code Quality]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[90% of devs are damn bad!]]></title>
+        <id>http://localhost:3000/blogs/90pc-useless</id>
+        <link href="http://localhost:3000/blogs/90pc-useless"/>
+        <updated>2023-12-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[90% of Programmers Are Pretty Damn Bad Programmers]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Crash of July 19, 2024]]></title>
+        <id>http://localhost:3000/blogs/window-crash-190724</id>
+        <link href="http://localhost:3000/blogs/window-crash-190724"/>
+        <updated>2024-07-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How did a cybersecurity update triggered a global disaster, exposing the hidden dangers of software vulnerabilities.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minimalistic vs Noob Programmers]]></title>
+        <id>http://localhost:3000/blogs/fake-minimalism</id>
+        <link href="http://localhost:3000/blogs/fake-minimalism"/>
+        <updated>2024-07-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to distinguish between a true minimalistic programmer and one who is just faking it.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Healthy life as a Developer]]></title>
+        <id>http://localhost:3000/blogs/health-for-dev</id>
+        <link href="http://localhost:3000/blogs/health-for-dev"/>
+        <updated>2023-12-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Prioritizing Your Health as a Software Developer]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏦 Web Dev Bank]]></title>
+        <id>http://localhost:3000/notebooks/web/bank</id>
+        <link href="http://localhost:3000/notebooks/web/bank"/>
+        <updated>2024-07-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Collection of useful resources for web development ♥️]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏦 Blockchain Dev Bank]]></title>
+        <id>http://localhost:3000/notebooks/web3/bank</id>
+        <link href="http://localhost:3000/notebooks/web3/bank"/>
+        <updated>2024-07-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Collection of useful resources for blockchain development ♥️]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏦 Mobile Dev Bank]]></title>
+        <id>http://localhost:3000/notebooks/mobile/bank</id>
+        <link href="http://localhost:3000/notebooks/mobile/bank"/>
+        <updated>2024-07-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Collection of useful resources for mobile development ♥️]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to run Ollama locally from an external drive?]]></title>
+        <id>http://localhost:3000/notebooks/ai/ollama-external</id>
+        <link href="http://localhost:3000/notebooks/ai/ollama-external"/>
+        <updated>2024-06-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Giving users full control over their data and model deployment.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏦 AI Dev Bank]]></title>
+        <id>http://localhost:3000/notebooks/ai/bank</id>
+        <link href="http://localhost:3000/notebooks/ai/bank"/>
+        <updated>2024-07-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Collection of useful resources for mobile development ♥️]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Renaming git remote]]></title>
+        <id>http://localhost:3000/notebooks/misc/renaming-git-remote</id>
+        <link href="http://localhost:3000/notebooks/misc/renaming-git-remote"/>
+        <updated>2024-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How do I rename an existing Git Remote? ᛦ]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Templates]]></title>
+        <id>http://localhost:3000/notebooks/misc/gh-templates</id>
+        <link href="http://localhost:3000/notebooks/misc/gh-templates"/>
+        <updated>2024-07-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Templates for bug reports, commits, issues, PRs, enhancement/feature requests 📄]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏦 Miscellaneous Dev Bank]]></title>
+        <id>http://localhost:3000/notebooks/misc/bank</id>
+        <link href="http://localhost:3000/notebooks/misc/bank"/>
+        <updated>2024-07-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Collection of useful resources for development ♥️]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to solve this Git error?]]></title>
+        <id>http://localhost:3000/notebooks/misc/divergent-branches-reconcile</id>
+        <link href="http://localhost:3000/notebooks/misc/divergent-branches-reconcile"/>
+        <updated>2024-06-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You have divergent branches and need to specify how to reconcile them.]]></summary>
+    </entry>
+</feed>

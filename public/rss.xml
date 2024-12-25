@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Gopal Verma | gopx.dev</title>
+        <link>http://localhost:3000</link>
+        <description>I'm Gopal Verma, an indie developer, freelancer, and full-stack developer based in India. I do open-source projects and freelance work.</description>
+        <lastBuildDate>Sun, 18 Aug 2024 18:37:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Gopal Verma | gopx.dev</title>
+            <url>http://localhost:3000/logo.png</url>
+            <link>http://localhost:3000</link>
+        </image>
+        <copyright>All rights reserved 2024, Gopal Verma</copyright>
+        <item>
+            <title><![CDATA[The End of Junior Engineers]]></title>
+            <link>http://localhost:3000/blogs/end-of-je</link>
+            <guid>blogs/end-of-je</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Threat of AI Taking Over Entry-Level Jobs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[No need to code for fun]]></title>
+            <link>http://localhost:3000/blogs/not-code-4-fun</link>
+            <guid>blogs/not-code-4-fun</guid>
+            <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Exploring the divisive opinion that programmers must code in their free time to excel]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Pair programming lowers quality]]></title>
+            <link>http://localhost:3000/blogs/pair-prog-sucks</link>
+            <guid>blogs/pair-prog-sucks</guid>
+            <pubDate>Sat, 06 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pair Programming: A Myth of Improved Code Quality]]></description>
+        </item>
+        <item>
+            <title><![CDATA[90% of devs are damn bad!]]></title>
+            <link>http://localhost:3000/blogs/90pc-useless</link>
+            <guid>blogs/90pc-useless</guid>
+            <pubDate>Sat, 16 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[90% of Programmers Are Pretty Damn Bad Programmers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Windows Crash of July 19, 2024]]></title>
+            <link>http://localhost:3000/blogs/window-crash-190724</link>
+            <guid>blogs/window-crash-190724</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[How did a cybersecurity update triggered a global disaster, exposing the hidden dangers of software vulnerabilities.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Minimalistic vs Noob Programmers]]></title>
+            <link>http://localhost:3000/blogs/fake-minimalism</link>
+            <guid>blogs/fake-minimalism</guid>
+            <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn how to distinguish between a true minimalistic programmer and one who is just faking it.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Healthy life as a Developer]]></title>
+            <link>http://localhost:3000/blogs/health-for-dev</link>
+            <guid>blogs/health-for-dev</guid>
+            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Prioritizing Your Health as a Software Developer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[🏦 Web Dev Bank]]></title>
+            <link>http://localhost:3000/notebooks/web/bank</link>
+            <guid>notebooks/web/bank</guid>
+            <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Collection of useful resources for web development ♥️]]></description>
+        </item>
+        <item>
+            <title><![CDATA[🏦 Blockchain Dev Bank]]></title>
+            <link>http://localhost:3000/notebooks/web3/bank</link>
+            <guid>notebooks/web3/bank</guid>
+            <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Collection of useful resources for blockchain development ♥️]]></description>
+        </item>
+        <item>
+            <title><![CDATA[🏦 Mobile Dev Bank]]></title>
+            <link>http://localhost:3000/notebooks/mobile/bank</link>
+            <guid>notebooks/mobile/bank</guid>
+            <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Collection of useful resources for mobile development ♥️]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How to run Ollama locally from an external drive?]]></title>
+            <link>http://localhost:3000/notebooks/ai/ollama-external</link>
+            <guid>notebooks/ai/ollama-external</guid>
+            <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Giving users full control over their data and model deployment.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[🏦 AI Dev Bank]]></title>
+            <link>http://localhost:3000/notebooks/ai/bank</link>
+            <guid>notebooks/ai/bank</guid>
+            <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Collection of useful resources for mobile development ♥️]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Renaming git remote]]></title>
+            <link>http://localhost:3000/notebooks/misc/renaming-git-remote</link>
+            <guid>notebooks/misc/renaming-git-remote</guid>
+            <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[How do I rename an existing Git Remote? ᛦ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[GitHub Templates]]></title>
+            <link>http://localhost:3000/notebooks/misc/gh-templates</link>
+            <guid>notebooks/misc/gh-templates</guid>
+            <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Templates for bug reports, commits, issues, PRs, enhancement/feature requests 📄]]></description>
+        </item>
+        <item>
+            <title><![CDATA[🏦 Miscellaneous Dev Bank]]></title>
+            <link>http://localhost:3000/notebooks/misc/bank</link>
+            <guid>notebooks/misc/bank</guid>
+            <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Collection of useful resources for development ♥️]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How to solve this Git error?]]></title>
+            <link>http://localhost:3000/notebooks/misc/divergent-branches-reconcile</link>
+            <guid>notebooks/misc/divergent-branches-reconcile</guid>
+            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[You have divergent branches and need to specify how to reconcile them.]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,137 @@
+---
+title: Showcase
+description: Project Gallery - A curated showcase of my works, collaborations and job positions 📺
+---
+
+import { Cards } from 'nextra/components'
+import { CONFIGS, BACKYARD, COLLABORATIONS, BUILDING, JOBS, CONTRIBUTIONS, PACKAGES } from '@/content/showcase'
+import Image from 'next/image'
+
+export function ShowcaseHeader() {
+  return (
+    <div className="max-w-screen-lg mx-auto pt-[66px] pb-16">
+      <div className="-z-50 absolute inset-0 bg-[linear-gradient(to_bottom,rgba(0,0,0,0.1)_1px,transparent_1px),linear-gradient(to_right,rgba(0,0,0,0.1)_1px,transparent_1px)] dark:bg-[linear-gradient(to_bottom,rgba(255,255,255,0.1)_1px,transparent_1px),linear-gradient(to_right,rgba(255,255,255,0.1)_1px,transparent_1px)] bg-[size:4rem_4rem] [mask-image:linear-gradient(to_bottom,white,transparent)]"></div>
+      <p className="text-center font-space-grotesk font-roboto font-bold uppercase text-2xl ">Showcase</p>
+      <h1>
+        <span className="font-bold font-serif leading-tight lg:text-5xl italic">
+          Explore my showcased projects, contributions and collabs.
+        </span>
+      </h1>
+    </div>
+  )
+}
+
+<ShowcaseHeader />
+
+### Building
+
+<div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 border-b border-gray-400 border-opacity-20 mb-16 pb-8">
+  {
+    BUILDING.map((work) => (
+    <Cards>
+      <ShowcaseCard title={work.title} href={work.href} >
+        <Image src={work.img} width={500} height={500} />
+      </ShowcaseCard>
+    </Cards> 
+    ))
+  }
+</div>
+
+### Backyard
+
+<div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 border-b border-gray-400 border-opacity-20 mb-16 pb-8">
+  {
+    BACKYARD.map((work) => (
+    <Cards>
+      <ShowcaseCard title={work.title} href={work.href} >
+        <Image src={work.img} width={500} height={500} />
+      </ShowcaseCard>
+    </Cards> 
+    ))
+  }
+</div>
+
+### Packages
+
+<div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 border-b border-gray-400 border-opacity-20 mb-16 pb-8">
+  {
+    PACKAGES.map((work) => (
+    <Cards>
+      <ShowcaseCard title={work.title} href={work.href} >
+        <Image src={work.img} width={500} height={500} />
+      </ShowcaseCard>
+    </Cards> 
+    ))
+  }
+</div>
+
+
+### Configs
+
+<div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 border-b border-gray-400 border-opacity-20 mb-16 pb-8">
+  {
+    CONFIGS.map((work) => (
+    <Cards>
+      <ShowcaseCard title={work.title} href={work.href} >
+        <Image src={work.img} width={500} height={500} />
+      </ShowcaseCard>
+    </Cards> 
+    ))
+  }
+</div>
+
+
+### Collaborations
+
+<div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 border-b border-gray-400 border-opacity-20 mb-16 pb-8">
+  {
+    COLLABORATIONS.map((work) => (
+    <Cards>
+      <ShowcaseCard title={work.title} href={work.href} >
+        <Image src={work.img} width={500} height={500} />
+      </ShowcaseCard>
+    </Cards> 
+   ))
+  }
+</div>
+
+### Contributions
+
+<div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 border-b border-gray-400 border-opacity-20 mb-16 pb-8">
+  {
+    CONTRIBUTIONS.map((work) => (
+    <Cards>
+      <ShowcaseCard title={work.title} href={work.href} >
+        <Image src={work.img} width={500} height={500} />
+      </ShowcaseCard>
+    </Cards> 
+   ))
+  }
+</div>
+
+
+### Jobs
+
+<div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 border-b border-gray-400 border-opacity-20 mb-16 pb-8">
+  {
+    JOBS.map((work) => (
+    <Cards>
+      <ShowcaseCard title={work.title} href={work.href} >
+        <Image src={work.img} width={500} height={500} />
+      </ShowcaseCard>
+    </Cards> 
+   ))
+  }
+</div>
+
+export const ShowcaseCard = Object.assign(
+  // Copy card component and add default props
+  Cards.Card.bind(),
+  {
+    displayName: 'ShowcaseCard',
+    defaultProps: {
+      image: true,
+      arrow: true,
+    }
+  }
+)
